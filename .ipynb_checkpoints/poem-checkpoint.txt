@@ -1,0 +1,4 @@
+In loops and lists, it weaves its art,
+Indentation binds code, line by part.
+From numbers to strings, its power runs wide,
+In Python, creativity and logic collide.
